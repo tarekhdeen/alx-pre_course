@@ -1,1 +1,1 @@
-touch file_name
+echo "text" > file name
